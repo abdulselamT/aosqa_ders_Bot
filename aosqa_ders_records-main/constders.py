@@ -1,1 +1,1 @@
-API_KEY ="5780437888:AAHCqHK8FTbiIh5614xjiGyZqD4KmXx6Cjs"
+API_KEY ="Your telegram bot api key"
